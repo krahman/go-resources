@@ -57,4 +57,14 @@
 * [Let's Learn Go!](http://go-book.appspot.com/)
 * [What is Go?](http://code.tutsplus.com/tutorials/what-is-go--cms-21635)
 
+###
+* [Making RESTful in Go](http://thenewstack.io/make-a-restful-json-api-go/)
+
+### Go Discussion Group
+* [Go Nuts](https://groups.google.com/forum/#!forum/golang-nuts)
+* [Go on Google App Engine](https://groups.google.com/forum/#!forum/google-appengine-go)
+* [Go Language Resources](http://go-lang.cat-v.org/)
+
+### Go Packages
+* [Gopm Registry](http://gopm.io/)
 
