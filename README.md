@@ -67,4 +67,5 @@
 
 ### Go Packages
 * [Gopm Registry](http://gopm.io/)
+* [Gorilla: Web toolkit for Go Programming Language](http://www.gorillatoolkit.org/pkg/)
 
