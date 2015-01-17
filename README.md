@@ -1,7 +1,6 @@
 # go-resources
 "GO" programming language resources
 [http://golang.org/](http://golang.org/)
-Inline-style: 
 ![alt text](https://github.com/krahman/go-resources/blob/master/gologo.png "Go Logo")
 
 ### Go Official Website
