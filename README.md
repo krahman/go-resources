@@ -40,11 +40,14 @@
 ### Go Talks
 * [Go Programming Language Talks](http://talks.golang.org/)
 * [Go Talks & Videos](http://go-lang.cat-v.org/talks/)
+* Go Resources at [Reddit](http://www.reddit.com/r/Golang)
+* [StackOverflow on Go](http://stackoverflow.com/questions/tagged/go)
 
 ### Go Articles & Blogs
 * [The Go Blog](https://blog.golang.org/two-recent-go-articles)
 * [The Go Programming Language](http://www.computer.org/csdl/mags/so/2014/05/mso2014050104.pdf)
 * [Go Lang Weekly Newsletter](http://golangweekly.com/)
+* Google Plus [+golang](https://plus.google.com/+golang/)
 
 ### Go Tutorials
 * [The Golang Tour](https://tour.golang.org/welcome/1)
