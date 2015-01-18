@@ -3,7 +3,8 @@
 
 "GO" programming language resources
 
-> "Go is not meant to innovate programming theory. It's meant to innovate programming practice." --*Samuel Tesla*
+> "Go is not meant to innovate programming theory. It's meant to innovate programming practice." - *Samuel Tesla*
+> "Go is closer in spirit to C than to any other language," - *Mark Summerfield*
 
 ![alt text](https://github.com/krahman/go-resources/blob/master/gologo.png "Go Logo")
 
@@ -15,6 +16,10 @@
 
 ### Go Wiki
 [https://golang.org/doc/articles/wiki/](https://golang.org/doc/articles/wiki/)
+
+### Why should I learn Go?
+[Why Go?](http://nathany.com/why-go/)
+[iron.io: Go after 2 years in production.](http://blog.iron.io/2013/08/go-after-2-years-in-production.html)
 
 ### Go eBooks
 * [Golang Book](http://www.golang-book.com/)
@@ -31,6 +36,7 @@
 * [Golcangcast TV: Go Programming Language Cast](http://golangcast.tv/)
 * [Devcast IO: Go Screencasts](http://www.devcasts.io/tag/go/)
 * [Developer Free Casts in Go](http://devfreecasts.org/go/)
+* [Why Go?](http://vimeo.com/65704694)
 
 ### Go Podcasts
 * [An Introduction to the Go Programming with Andrew Gerrand](http://hanselminutes.com/416/an-introduction-to-the-go-programming-language-with-andrew-gerrand)
@@ -58,8 +64,6 @@
 * [Golang Tutorials Blogspot](http://golangtutorials.blogspot.sg/)
 * [Let's Learn Go!](http://go-book.appspot.com/)
 * [What is Go?](http://code.tutsplus.com/tutorials/what-is-go--cms-21635)
-
-###
 * [Making RESTful in Go](http://thenewstack.io/make-a-restful-json-api-go/)
 
 ### Go Discussion Group
@@ -69,5 +73,7 @@
 
 ### Go Packages
 * [Gopm Registry](http://gopm.io/)
-* [Gorilla: Web toolkit for Go Programming Language](http://www.gorillatoolkit.org/pkg/)
 
+### Go Web Framework
+* [REVEL: A high-productivity web framework for the Go language](http://revel.github.io/)
+* [Gorilla: Web toolkit for Go Programming Language](http://www.gorillatoolkit.org/pkg/)
