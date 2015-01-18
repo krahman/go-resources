@@ -4,7 +4,7 @@
 "GO" programming language resources
 
 > Go is not meant to innovate programming theory. It's meant to innovate programming practice.
-*Samuel Tesla*
+> *Samuel Tesla*
 
 [http://golang.org/](http://golang.org/)
 
