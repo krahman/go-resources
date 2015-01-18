@@ -5,8 +5,6 @@
 
 > "Go is not meant to innovate programming theory. It's meant to innovate programming practice." --*Samuel Tesla*
 
-[http://golang.org/](http://golang.org/)
-
 ![alt text](https://github.com/krahman/go-resources/blob/master/gologo.png "Go Logo")
 
 ### Go Official Website
